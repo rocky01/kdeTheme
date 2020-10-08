@@ -1,24 +1,23 @@
 [kdeglobals][KDE]
-widgetStyle=breeze
+widgetStyle=Breeze
 
 [kdeglobals][General]
-ColorScheme=PearLightBlue
+ColorScheme=Breeze
 
 [kdeglobals][Icons]
-Theme=PearBlue
+Theme=breeze
 
 [plasmarc][Theme]
-name=PearLight
+name=default
 
 [kcminputrc][Mouse]
-cursorTheme=PearDark
+cursorTheme=breeze_cursors
 
 [kwinrc][WindowSwitcher]
-LayoutName=MediumRoundedLight
+LayoutName=org.kde.breeze.desktop
 
 [kwinrc][DesktopSwitcher]
-LayoutName=
+LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__PearLightOpaque
+library=org.kde.breeze
